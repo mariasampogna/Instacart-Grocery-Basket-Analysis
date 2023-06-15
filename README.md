@@ -1,4 +1,4 @@
-![Instacart logo](https://www.instacart.com/company/wp-content/themes/instacartcorporate/theme-assets/images/instacart-color-logo.svg)
+![Instacart logo](https://1000logos.net/wp-content/uploads/2023/04/Instacart-Logo.jpg)
 
 # Instacart Grocery Basket Analysis
 
